@@ -19,6 +19,7 @@
 ![imagem](img/capa.png)
 
 ## 📋Descrição
+Projeto em desenvolvimento para disciplina de Programação Web I. Estamos aprendendo a utilizar recursos do Bootstrap para facilitar a criação de  layouts, formulários, botões, tabelas e outros componentes com apenas algumas linhas de código.
 
 ## 🔧 Funcionalidades
 
