@@ -25,9 +25,9 @@
 Projeto em desenvolvimento para disciplina de Programação Web I. Estamos aprendendo a utilizar recursos do Bootstrap para facilitar a criação de  layouts, formulários e outros componentes com apenas algumas linhas de código.
 
 ## 🔧 Funcionalidades
-- `Funcionalidade 1`: A tela inicial é a primeira que o usuário vê quando abre a página, ela apresenta um layout de introdução ao aplicativo.
-- `Funcionalidade 2`: A tela de novidades abriga todas as atualizações da página.
-- `Funcionalidade 3`: Tela de contatos para que os usuários entrem em contato com o desenvolvedor.
+- `Início`: A tela inicial é a primeira que o usuário vê quando abre a página, ela apresenta um layout de introdução ao aplicativo.
+- `Novidades`: A tela de novidades abriga todas as atualizações da página.
+- `Contatos`: Tela de contatos para que os usuários entrem em contato com o desenvolvedor.
 
 ### 🛠️ Tecnologia ultilizadas
 - ``HTML``
