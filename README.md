@@ -30,9 +30,9 @@ Projeto em desenvolvimento para disciplina de Programação Web I. Estamos apren
 - `Contatos`: Tela de contatos para que os usuários entrem em contato com o desenvolvedor.
 
 ### 🛠️ Tecnologia ultilizadas
-- ``HTML``
-- ``CSS``
-- ``BOOTSTRAP``
+- ``HTML 5``
+- ``CSS 3``
+- ``BOOTSTRAP 5``
 
 ## 📄 Fontes consultadas
 [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github  
