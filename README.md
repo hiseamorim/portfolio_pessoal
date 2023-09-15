@@ -19,7 +19,7 @@
 ![imagem](img/capa.png)
 
 ## Status do Projeto🚧
-> :construction: Projeto em construção :construction:
+> 🚧Projeto em construção🚧
 
 ## 📋Descrição
 Projeto em desenvolvimento para disciplina de Programação Web I. Estamos aprendendo a utilizar recursos do Bootstrap para facilitar a criação de  layouts, formulários e outros componentes com apenas algumas linhas de código.
